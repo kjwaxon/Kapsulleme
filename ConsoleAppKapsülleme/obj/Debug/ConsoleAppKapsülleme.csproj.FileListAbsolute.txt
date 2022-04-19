@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsülleme\bin\Debug\ConsoleAppKapsülleme.exe.config
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsülleme\bin\Debug\ConsoleAppKapsülleme.exe
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsülleme\bin\Debug\ConsoleAppKapsülleme.pdb
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsülleme\obj\Debug\ConsoleAppKapsülleme.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsülleme\obj\Debug\ConsoleAppKapsülleme.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsülleme\obj\Debug\ConsoleAppKapsülleme.exe
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsülleme\obj\Debug\ConsoleAppKapsülleme.pdb
